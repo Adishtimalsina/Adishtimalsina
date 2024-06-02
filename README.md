@@ -1,5 +1,5 @@
 
-![MasterHead](<img >)
+![MasterHead](https://cubettech.com/_next/image/?url=https%3A%2F%2Fcubettech.com%2Fwp-content%2Fuploads%2F2021%2F05%2FWEB-Full-Stack-Developer.jpg&w=3840&q=75)
 <h1 align="center">Hi 👋, I'm Adish Timalsina</h1>
 <h3 align="center">A passionate full stack developer from United States of America</h3>
 
