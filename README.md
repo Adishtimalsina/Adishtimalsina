@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adishtimalsina.github.io/details/](https://adishtimalsina.github.io/details/)
 
-- 💬 Ask me about **React, JavaScript, BootStrap, Java**
+- 💬 Ask me about **Reactjs, JavaScript, BootStrap, Java, Nodejs, Expressjs, MongoDB**
 
 - 📫 How to reach me **adishtimalsina11@gmail.com**
 
